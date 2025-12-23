@@ -1,0 +1,8 @@
+{
+  "name": "Trinetra Luxury Resort",
+  "description": "A premium, fully animated luxury hospitality website featuring world-class villas, cinematic transitions, and an integrated AI concierge experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
